@@ -1,0 +1,6 @@
+C:\Users\multi\Source\Repos\HomeSafe\HomeSafe\HomeSafeAgent\bin\Debug\HomeSafeAgent.exe.config
+C:\Users\multi\Source\Repos\HomeSafe\HomeSafe\HomeSafeAgent\bin\Debug\HomeSafeAgent.exe
+C:\Users\multi\Source\Repos\HomeSafe\HomeSafe\HomeSafeAgent\bin\Debug\HomeSafeAgent.pdb
+C:\Users\multi\Source\Repos\HomeSafe\HomeSafe\HomeSafeAgent\obj\Debug\HomeSafeAgent.csprojResolveAssemblyReference.cache
+C:\Users\multi\Source\Repos\HomeSafe\HomeSafe\HomeSafeAgent\obj\Debug\HomeSafeAgent.exe
+C:\Users\multi\Source\Repos\HomeSafe\HomeSafe\HomeSafeAgent\obj\Debug\HomeSafeAgent.pdb

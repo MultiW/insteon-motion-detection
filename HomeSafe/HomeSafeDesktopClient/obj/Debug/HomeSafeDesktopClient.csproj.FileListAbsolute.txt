@@ -1,0 +1,11 @@
+C:\Users\multi\Source\Repos\HomeSafe\HomeSafe\HomeSafeDesktopClient\bin\Debug\HomeSafeDesktopClient.exe.config
+C:\Users\multi\Source\Repos\HomeSafe\HomeSafe\HomeSafeDesktopClient\bin\Debug\HomeSafeDesktopClient.exe
+C:\Users\multi\Source\Repos\HomeSafe\HomeSafe\HomeSafeDesktopClient\bin\Debug\HomeSafeDesktopClient.pdb
+C:\Users\multi\Source\Repos\HomeSafe\HomeSafe\HomeSafeDesktopClient\bin\Debug\HomeSafeAgentCore.dll
+C:\Users\multi\Source\Repos\HomeSafe\HomeSafe\HomeSafeDesktopClient\bin\Debug\HomeSafeAgentCore.pdb
+C:\Users\multi\Source\Repos\HomeSafe\HomeSafe\HomeSafeDesktopClient\obj\Debug\HomeSafeDesktopClient.csprojResolveAssemblyReference.cache
+C:\Users\multi\Source\Repos\HomeSafe\HomeSafe\HomeSafeDesktopClient\obj\Debug\HomeSafeDesktopClient.MainForm.resources
+C:\Users\multi\Source\Repos\HomeSafe\HomeSafe\HomeSafeDesktopClient\obj\Debug\HomeSafeDesktopClient.Properties.Resources.resources
+C:\Users\multi\Source\Repos\HomeSafe\HomeSafe\HomeSafeDesktopClient\obj\Debug\HomeSafeDesktopClient.csproj.GenerateResource.Cache
+C:\Users\multi\Source\Repos\HomeSafe\HomeSafe\HomeSafeDesktopClient\obj\Debug\HomeSafeDesktopClient.exe
+C:\Users\multi\Source\Repos\HomeSafe\HomeSafe\HomeSafeDesktopClient\obj\Debug\HomeSafeDesktopClient.pdb
