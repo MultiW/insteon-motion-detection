@@ -1,5 +1,5 @@
 # Insteon Motion Detection
 _Summer 2016_
 
-Built basic motion detection capability using Insteon's video stream in Camera.cs (towards the middle of page).
-Copied code that streams from Insteon camera (all code except for motion detection capability). Taken from (some source, can't find it yet).
+Project taken from (source, currently can't find it). I experimented with it to include a basic motion detection capability.   
+My code is at the bottom of the HomeSafeAgentCore/Camera.cs file in the method called `CheckForMovement`.
